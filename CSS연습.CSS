@@ -1,0 +1,25 @@
+html,
+body {
+    height: 100%;
+}
+
+body { 
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-direction: column-reverse;
+    
+}
+
+
+
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+}
+#second { 
+    background-color: turquoise;
+
+}
