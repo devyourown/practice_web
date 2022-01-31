@@ -1,25 +1,18 @@
 html,
-body {
-    height: 100%;
-}
-
 body { 
-    display: flex;
-    justify-content: space-between;
-    align-items: stretch;
-    flex-direction: column-reverse;
-    
+    height: 1000vh;
+  
 }
 
-
-
-
-div{
+div {
     width: 200px;
     height: 200px;
-    background-color: tomato;
+    background-color: blue;
+    position: fixed;
+   
 }
-#second { 
-    background-color: turquoise;
+#second {
+    background-color: brown;
+    position: fixed;
 
 }

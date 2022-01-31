@@ -1,0 +1,49 @@
+
+
+
+#div1 {
+    margin-bottom: 60px;
+    margin-left: 60px;
+    width: 600px;
+    height: 600px;
+    border: 1px solid;
+
+}
+h1 {
+    margin: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+span {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+}
+#ment2 {    border-bottom: 1px solid;}
+#ment3 { 
+    font-size: 15px;
+    font-weight: bold;
+}
+#ment4 { 
+    font-size: 15px;
+    font-weight: bold; }
+
+#name {
+    margin-left: 70px;
+}
+#number{
+    margin-left: 70px;}
+
+    #box{
+        margin: 8px;
+        margin-left: 70px
+    }
+#imo {
+    margin-left: 40px;
+    width: 500px;
+    height: 100px;
+}
+#submit {margin-left: 40px;}
