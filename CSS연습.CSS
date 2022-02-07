@@ -1,0 +1,18 @@
+html,
+body { 
+    height: 1000vh;
+  
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: fixed;
+   
+}
+#second {
+    background-color: brown;
+    position: fixed;
+
+}
